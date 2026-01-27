@@ -236,5 +236,3 @@ This lab simulates a **real‑world SOC SIEM deployment** on a hardened Linux di
 
 ---
 
-**Author:** SOC / Blue Team Lab
-**Status:** ✅ Completed
